@@ -108,7 +108,7 @@ export default defineNuxtConfig({
       // our default translation server #76
       translateApi: '',
       // Use the instance where Elk has its Mastodon account as the default
-      defaultServer: 'app.jidaar.net',
+      defaultServer: 'jidaar.net',
       singleInstance: false,
     },
     storage: {
