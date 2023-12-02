@@ -13,7 +13,7 @@ const { busy, oauth, singleInstanceServer } = useSignIn()
       {{ $t(singleInstanceServer ? 'user.single_instance_sign_in_desc' : 'user.sign_in_desc') }}
     </p>
     <button
-      v-if="singleInstanceServer"
+      v-if="1"
       flex="~ row" gap-x-2 items-center justify-center btn-solid text-center rounded-3
       :disabled="busy"
       @click="oauth()"
