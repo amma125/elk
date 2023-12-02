@@ -109,7 +109,7 @@ export default defineNuxtConfig({
       translateApi: '',
       // Use the instance where Elk has its Mastodon account as the default
       defaultServer: 'jidaar.net',
-      singleInstance: false,
+      singleInstance: true,
     },
     storage: {
       fsBase: 'node_modules/.cache/app',
