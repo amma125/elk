@@ -1,10 +1,10 @@
 {
-  "name": "@elk-zone/elk",
+  "name": "Jidaar",
   "type": "module",
   "version": "0.10.3",
   "packageManager": "pnpm@8.7.1",
   "license": "MIT",
-  "homepage": "https://elk.zone/",
+  "homepage": "https://web.jidaar.net/",
   "main": "./nuxt.config.ts",
   "scripts": {
     "build": "nuxi build",
