@@ -1,42 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="250"
-   height="250"
-   fill="none"
-   version="1.1"
-   id="svg30"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1024pt"
+   height="1024pt"
+   viewBox="0 0 1024 1024"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg6"
+   sodipodi:docname="mask-icon.svg"
+   inkscape:version="0.92.5 (0.92.5+69)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
-     id="defs34" />
-  <mask
-     id="a"
-     width="240"
-     height="234"
-     x="4"
-     y="1"
-     maskUnits="userSpaceOnUse"
-     style="mask-type:alpha">
-    <path
-       fill="#D9D9D9"
-       d="M244 123c0 64.617-38.383 112-103 112-64.617 0-103-30.883-103-95.5C38 111.194-8.729 36.236 8 16 29.46-9.959 88.689 6 125 6c64.617 0 119 52.383 119 117Z"
-       id="path19" />
-  </mask>
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.17285156"
+     inkscape:cx="935.01851"
+     inkscape:cy="682.66667"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
   <g
-     mask="url(#a)"
-     id="g28"
-     transform="matrix(0.90923731,0,0,1.0049564,13.520015,-3.1040835)">
+     aria-label="ج"
+     transform="matrix(133.4078,0,0,119.9226,155.78181,-31459.734)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.45044041px;line-height:1.25;font-family:Rasheeq;-inkscape-font-specification:'Rasheeq, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40046;fill-opacity:1;stroke:none;stroke-width:0.26126084"
+     id="text12"
+     inkscape:export-filename="/home/amma125/WsoomProgramming/Jidaar/public/favicon150x150.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <path
-       fill="#ea9e44"
-       d="m 116.94,88.1 c -13.344,1.552 -20.436,-2.019 -24.706,10.71 0,0 14.336,21.655 52.54,21.112 -2.135,8.848 -1.144,15.368 -1.144,23.207 0,26.079 -20.589,48.821 -65.961,48.821 -23.03,0 -51.015,4.191 -72.367,15.911 -15.175,8.305 -27.048,20.336 -32.302,37.023 l 5.956,8.461 11.4,0.155 v 47.889 l -13.91,21.966 3.998,63.645 H -6.364 L -5.22,335.773 C 1.338,331.892 16.36,321.802 29.171,306.279 46.557,285.4 59.902,255.052 44.193,217.486 l 11.744,-5.045 c 12.887,30.814 8.388,57.514 -2.898,79.013 21.58,-0.698 40.11,-2.095 55.819,-4.734 l -3.584,-43.698 12.659,-1.087 L 129.98,387 h 13.116 l 2.212,-94.459 c 10.447,-4.502 34.239,-21.034 45.372,-78.47 1.372,-6.986 2.135,-12.885 2.516,-17.93 1.754,-12.806 2.745,-27.243 3.051,-43.698 l -18.683,-5.976 h 57.42 l 5.567,-12.807 c -5.414,0.233 -11.896,-2.639 -11.896,-2.639 l 1.297,-6.209 H 242 L 176.801,90.428 c -7.244,2.794 -14.87,6.442 -20.208,10.866 -4.27,-3.105 -19.063,-12.807 -39.653,-13.195 z"
-       id="path22" />
-    <path
-       fill="#c16929"
-       d="M 6.217,24.493 18.494,21 c 5.948,21.577 13.345,33.375 22.648,39.352 8.388,5.099 19.75,5.239 31.799,4.579 C 69.433,63.767 66.154,62.137 63.104,59.886 56.317,54.841 50.522,46.458 46.175,31.246 l 12.201,-3.649 c 3.279,11.488 7.092,18.085 12.201,21.888 5.11,3.726 11.286,4.657 18.606,5.433 13.726,1.553 30.884,2.174 52.312,12.264 2.898,1.086 5.872,2.483 8.769,4.036 -0.381,-0.776 -0.762,-1.553 -1.296,-2.406 -3.66,-5.822 -10.828,-11.953 -24.097,-16.92 l 4.27,-12.109 c 21.581,7.917 30.121,19.171 33.553,28.097 3.965,10.168 1.525,18.124 1.525,18.124 -3.05,1.009 -6.1,2.406 -9.608,3.492 -6.634,-4.579 -12.887,-8.033 -18.835,-10.75 C 113.814,70.442 92.31,76.108 73.246,77.893 58.91,79.213 45.794,78.591 34.432,71.295 23.222,64.155 13.385,50.495 6.217,24.493 Z"
-       id="path24" />
-    <path
-       fill="#c16929"
-       d="M 90.098,45.294 C 87.582,39.55 86.057,32.487 86.743,23.794 l 12.659,0.932 c -0.763,10.555 2.897,17.696 7.015,22.353 -5.338,-0.931 -10.447,-1.04 -16.319,-1.785 z m 80.069,-1.32 8.312,-9.702 c 21.58,19.094 8.159,46.415 8.159,46.415 l -11.819,-1.32 c -0.382,-6.24 -1.144,-17.836 -6.635,-24.371 3.584,1.84 6.635,3.865 9.99,6.908 0,-5.666 -1.754,-12.341 -8.007,-17.93 z"
-       id="path26" />
+       d="m 3.7378808,266.43304 -0.4181172,0.35608 -0.3544042,-0.43144 0.4351815,-0.33985 z m -1.3722935,-1.51627 c -0.2090088,-0.18966 -0.4025355,-0.34061 -0.58058,-0.45286 -0.2399731,-0.15095 -0.4451113,-0.22642 -0.6154148,-0.22642 -0.092893,0 -0.19546194,0.0348 -0.30770742,0.1045 -0.11224547,0.0697 -0.22449094,0.1645 -0.33673641,0.28449 l -0.058058,-0.0639 c 0.0657991,-0.21675 0.13546867,-0.43543 0.2090088,-0.65605 0.19739721,-0.52253 0.45672293,-0.78379 0.77797723,-0.78379 0.2244909,0 0.4915577,0.13741 0.8012004,0.41222 0.2709374,0.25932 0.54381,0.51477 0.8186179,0.76636 0.3328659,0.28255 0.6347675,0.42382 0.9057048,0.42382 H 4.844664 l -0.5631626,1.0973 H 2.8532746 c -0.5341337,0 -1.0198856,0.15869 -1.4572559,0.47608 -0.43737028,0.31351 -0.65605542,0.65605 -0.65605542,1.02762 0,0.37545 0.27287262,0.7238 0.81861782,1.04505 0.5496157,0.32125 1.1689011,0.48188 1.8578561,0.48188 h 1.5849834 c -0.4025355,0.35996 -0.7450777,0.64057 -1.0276266,0.84184 -0.2825489,0.20127 -0.5012341,0.3019 -0.6560554,0.3019 -0.8437763,0 -1.5404724,-0.18966 -2.0900881,-0.56897 -0.61928536,-0.42963 -0.92892804,-1.02762 -0.92892804,-1.79399 0,-0.39093 0.10837494,-0.80701 0.32512481,-1.24825 0.21674987,-0.44124 0.49349303,-0.78378 0.83022943,-1.02762 0.07354,-0.0542 0.1819151,-0.11613 0.3251248,-0.18579 0.1664329,-0.0851 0.3618949,-0.1703 0.5863858,-0.25545 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.45044041px;font-family:Rasheeq;-inkscape-font-specification:'Rasheeq, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e40046;fill-opacity:1;stroke-width:0.26126084"
+       id="path824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccsccccsccsccscscscsscsscccc" />
   </g>
+  <rect
+     style="fill:#e40046;fill-opacity:1;fill-rule:evenodd;stroke-width:35.00306702"
+     id="rect15"
+     width="38.859776"
+     height="169.47031"
+     x="567.49829"
+     y="573.01648"
+     rx="1.9687641"
+     ry="1.9687639"
+     inkscape:export-filename="/home/amma125/WsoomProgramming/Jidaar/public/favicon150x150.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
 </svg>
