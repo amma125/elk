@@ -333,34 +333,34 @@
   "pwa": {
     "dismiss": "تجاهل",
     "install": "تحميل",
-    "install_title": "تحميل Elk",
+    "install_title": "تحميل Jidaar",
     "screenshots": {
       "dark": "لقطة شاشة لـ Elk وهو يعمل في الوضع المظلم",
       "light": "لقطة شاشة لـ Elk وهو يعمل في الوضع الفاتح"
     },
-    "title": "يتوفر تحديث Elk جديد",
+    "title": "يتوفر تحديث Jidaar جديد",
     "update": "تحديث",
-    "update_available_short": "تحديث Elk",
+    "update_available_short": "تحديث jidaar",
     "webmanifest": {
       "canary": {
         "description": "نسخة ويب رشيقة لماستودون (النسخة الإنشائية)",
-        "name": "Elk (النسخة الإنشائية)",
-        "short_name": "Elk (النسخة الإنشائية)"
+        "name": "Jidaar (النسخة الإنشائية)",
+        "short_name": "Jidaar.Net (النسخة الإنشائية)"
       },
       "dev": {
         "description": "نسخة ويب رشيقة لماستودون (النسخة التطويرية)",
-        "name": "Elk (النسخة التطويرية)",
-        "short_name": "Elk (النسخة التطويرية)"
+        "name": "Jidaar.Net (النسخة التطويرية)",
+        "short_name": "Jidaar (النسخة التطويرية)"
       },
       "preview": {
         "description": "نسخة ويب رشيقة لماستودون (معاينة)",
-        "name": "Elk (معاينة)",
-        "short_name": "Elk (معاينة)"
+        "name": "Jidaar.net (معاينة)",
+        "short_name": "Jidaar (معاينة)"
       },
       "release": {
         "description": "نسخة ويب رشيقة لماستودون",
-        "name": "Elk",
-        "short_name": "Elk"
+        "name": "Jidaar.Net",
+        "short_name": "Jidaar"
       }
     }
   },
