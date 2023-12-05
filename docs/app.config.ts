@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: 'Jidaar',
+    title: 'Elk',
     description: 'A nimble Mastodon web client.',
     image: 'https://docs.elk.zone/elk-screenshot.png',
     socials: {
